@@ -1,2 +1,2 @@
-bu okuma dosyasýna 
-eklemeler yapýlacak
+bu okuma dosyasina 
+eklemeler yapilacak
